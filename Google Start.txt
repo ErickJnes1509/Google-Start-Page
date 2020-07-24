@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Google</title>\
+        <link href="style.css" rel="stylesheet">
+        <link rel="icon" href="https://img.icons8.com/offices/30/000000/google-logo.png">
+    </head>
+    <body>
+        <!--Navbar-->
+        <div class="container">
+            <div class="about">   <a href="#">About</a> </div>
+            <div class="store">   <a href="#">Store</a> </div>
+            <div class="gmail">   <a href="#">Gmail</a> </div>
+            <div class="images">   <a href="#">Images</a> </div>
+            <div class="grid"><img src="https://img.icons8.com/metro/26/000000/activity-grid-2.png"/></div>
+            <div class="profile"><img src="https://img.icons8.com/offices/30/000000/google-logo.png"/></div>
+        </div>
+
+        <!--Main-->
+        <div class="center">
+            <div class="#">
+                <img src="https://www.netclipart.com/pp/m/15-153088_download-transparent-background-google-logo.png"/>
+                <input type="search">
+            </div>
+            <div class="#">
+                <button>Google Search</button>
+                <button>I'm Feeling Lucky</button>
+            </div>
+        </div>    
+
+
+
+        <!--Footer-->
+        <div class="footer">
+        <a href="#">Advertising</a>
+        <a href="#">Business</a>
+        <a href="#">How Search works</a>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Settings</a>
+        </div>
+
+
+    </body>
+
+</html>
